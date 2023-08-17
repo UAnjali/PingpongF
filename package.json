@@ -1,0 +1,16 @@
+{
+  "name": "cypruss-example",
+  "version": "1.0.0",
+  "description": "## Problem Statement Get ready to get a big task for this assignment. Ever heard of 'Ping Pong'? You might have; if not go search on the web. Well, we will be making a smaller and easier version of this game. The main points for the game are -",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^12.17.4",
+    "cypress-wait-until": "^2.0.0"
+  },
+  "keywords": []
+}
